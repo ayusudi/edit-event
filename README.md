@@ -39,9 +39,7 @@ Buatlah ` GET /edit/:id ` yang menampilkan form edit yang setiap input dapat ter
 <br> 
 Sehingga tampilan seperti berikut  
 
-![img](./asset/form.png)
-
-<br>
+![img](./asset/form.png)  
 
 > Clue untuk populate → <input type="date">  
 > https://stackoverflow.com/questions/14212527/how-to-set-default-value-to-the-inputtype-date
@@ -77,7 +75,7 @@ Ubah table pada ` GET / ` menjadi seperti berikut :
 3. Column duration memiliki hitungan menit 
 4. Terdapat column baru yaitu `Day` yang di dapat dari value `date`
 
-Buat semua perubahan **tanpa mengubah bentuk table pada database**. 
+Buat semua perubahan **tanpa mengubah bentuk table pada database**.  
 Coba dengan membuat **Instance Method** pada model `Event` dan gunakan logic kalian (Note : bebas untuk menggunakan built-in function apapun)
 
 > kalian bisa code di atas atau di bawah static method associate di model. Example : 
