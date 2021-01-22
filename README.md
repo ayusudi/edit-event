@@ -76,7 +76,8 @@ Ubah table pada ` GET / ` menjadi seperti berikut :
 4. Terdapat column baru yaitu `Day` yang di dapat dari value `date`
 
 Buat semua perubahan **tanpa mengubah bentuk table pada database**.  
-Coba dengan membuat **Instance Method** pada model `Event` dan gunakan logic kalian (Note : bebas untuk menggunakan built-in function apapun)
+Coba dengan membuat **Instance Method** pada model `Event` dan gunakan logic kalian.  
+(Note : bebas untuk menggunakan built-in function apapun)
 
 > kalian bisa code di atas atau di bawah static method associate di model. Example : 
 ```js
