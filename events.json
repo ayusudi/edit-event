@@ -1,0 +1,10 @@
+[
+    {"id":1,"name":"GRIT Training","date":"2018-03-24T17:32:12Z","duration":10,"location":"Gedung Asia Tenggara","price":400},
+    {"id":2,"name":"Konser Anak Bangsa","date":"2017-09-08T22:42:40Z","duration":6,"location":"Lapangan XL","price":125},
+    {"id":3,"name":"Kenangan 90an","date":"2018-05-11T20:53:22Z","duration":5,"location":"Galeri Utama Jaya","price":200},
+    {"id":4,"name":"Color Run","date":"2017-12-28T22:04:11Z","duration":5,"location":"Lapangan XL","price":360},
+    {"id":5,"name":"Temu Fans Kpop","date":"2018-01-15T09:56:45Z","duration":5,"location":"Galeri Utama Jaya","price":500},
+    {"id":6,"name":"Seminar Motivasi Sukses","date":"2017-08-16T04:34:40Z","duration":5,"location":"Auditorium Bumi","price":700},
+    {"id":7,"name":"Jazzy Classic","date":"2018-03-09T20:32:34Z","duration":2,"location":"Gedung Asia Tenggara","price":100},
+    {"id":8,"name":"Standup Comedy Pekan","date":"2017-10-30T15:29:50Z","duration":4,"location":"Auditorium Bumi","price":175}
+]
