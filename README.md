@@ -4,16 +4,16 @@
 
 Terdapat table `"Events"` dalam database seperti berikut
 
-| Column Name | Data Type          |
-|-------------|--------------------|
-| id          | SERIAL PRIMARY KEY |
-| name        | VARCHAR            |
-| date        | DATE               |
-| duration    | INTEGER            |
-| location    | VARCHAR            |
-| price       | INTEGER            |
-| createdAt   | DATE               |
-| updatedAt   | DATE               |   
+| Column Name | Data Type             |
+|-------------|-----------------------|
+| id          | INTEGER (Primary Key) |
+| name        | VARCHAR               |
+| date        | DATE                  |
+| duration    | INTEGER               |
+| location    | VARCHAR               |
+| price       | INTEGER               |
+| createdAt   | DATE                  |
+| updatedAt   | DATE                  |   
 
 <br>
 
