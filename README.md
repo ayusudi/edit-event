@@ -1,7 +1,5 @@
 # Edit Event
 
-<u>[Check Demo](https://demopin-learning-by-doing.herokuapp.com/) </u> 
-
 **Buat aplikasi untuk latihan "Edit"** 👍
 
 Terdapat table `"Events"` dalam database seperti berikut
